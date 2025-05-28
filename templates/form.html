@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Spam WhatsApp Bot</title>
+</head>
+
+<body>
+    <h2>Kirim Pesan WhatsApp</h2>
+    <form method="POST" action="/send">
+        <label>Nomor WhatsApp (boleh +62 atau 08...):</label><br>
+        <input type="text" name="number" required value="+6285705955978"><br><br>
+
+        <label>Pesan:</label><br>
+        <textarea name="message" required>Halo ini pesan otomatis dari bot 😎</textarea><br><br>
+
+        <label>Jumlah Pesan:</label><br>
+        <input type="number" name="count" value="1" min="1"><br><br>
+
+        <button type="submit">Kirim</button>
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,8 @@
+{
+  "python.pythonPath": ".venv/Scripts/python.exe",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.extraPaths": ["./"],
+  "python.envFile": "${workspaceFolder}/.env",
+  "FLASK_APP": "app.py",
+  "FLASK_ENV": "development"
+}

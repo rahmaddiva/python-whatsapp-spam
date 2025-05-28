@@ -1,0 +1,10 @@
+[22832:28416:0429/170327.342:INFO:chrome_browser_cloud_management_controller.cc(202)] No machine level policy manager exists.
+[26404:2340:0429/170327.526:INFO:cpu_info.cc(53)] Available number of cores: 12
+[12760:27796:0429/170327.526:INFO:cpu_info.cc(53)] Available number of cores: 12
+[9284:20264:0429/170327.547:VERBOSE1:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[24668:13596:0429/170328.026:INFO:cpu_info.cc(53)] Available number of cores: 12
+[3688:24948:0429/170328.216:INFO:cpu_info.cc(53)] Available number of cores: 12
+[22832:28416:0429/170328.402:INFO:CONSOLE(157)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yo/r/_bXVh2aI-Lw.js (157)
+[12180:16932:0429/170328.553:INFO:cpu_info.cc(53)] Available number of cores: 12
+[16104:5888:0429/170338.555:WARNING:sqlite_persistent_store_backend_base.cc(176)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[16104:5888:0429/170338.555:WARNING:sqlite_persistent_store_backend_base.cc(176)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.

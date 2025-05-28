@@ -1,0 +1,28 @@
+2025/04/29-17:03:28.453 1878 Reusing MANIFEST D:\laragon\www\python\whatsapp-spam-bot\chrome_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/29-17:03:28.454 1878 Recovering log #86
+2025/04/29-17:03:28.469 1878 Reusing old log D:\laragon\www\python\whatsapp-spam-bot\chrome_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000086.log 
+2025/04/29-17:03:30.157 25ec Level-0 table #93: started
+2025/04/29-17:03:30.162 25ec Level-0 table #93: 140849 bytes OK
+2025/04/29-17:03:30.163 25ec Delete type=0 #86
+2025/04/29-17:03:30.164 2694 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/29-17:03:30.166 2694 Level-0 table #95: started
+2025/04/29-17:03:30.168 2694 Level-0 table #95: 435 bytes OK
+2025/04/29-17:03:30.169 2694 Delete type=0 #92
+2025/04/29-17:03:30.170 2694 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x19\x00\x00\x05' @ 490257 : 0
+2025/04/29-17:03:30.170 2694 Compacting 1@0 + 1@1 files
+2025/04/29-17:03:30.177 2694 Generated table #96@0: 5251 keys, 89489 bytes
+2025/04/29-17:03:30.177 2694 Compacted 1@0 + 1@1 files => 89489 bytes
+2025/04/29-17:03:30.178 2694 compacted to: files[ 0 1 3 0 0 0 0 ]
+2025/04/29-17:03:30.178 2694 Delete type=2 #95
+2025/04/29-17:03:30.179 2694 Manual compaction at level-0 from '\x00\x19\x00\x00\x05' @ 490257 : 0 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/29-17:03:32.180 3f38 Compacting 1@1 + 3@2 files
+2025/04/29-17:03:32.264 3f38 Generated table #97@1: 43845 keys, 2211751 bytes
+2025/04/29-17:03:32.326 3f38 Generated table #98@1: 30300 keys, 2198714 bytes
+2025/04/29-17:03:32.349 3f38 Generated table #99@1: 15437 keys, 379021 bytes
+2025/04/29-17:03:32.349 3f38 Compacted 1@1 + 3@2 files => 4789486 bytes
+2025/04/29-17:03:32.351 3f38 compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/04/29-17:03:32.351 3f38 Delete type=2 #88
+2025/04/29-17:03:32.351 3f38 Delete type=2 #89
+2025/04/29-17:03:32.351 3f38 Delete type=2 #90
+2025/04/29-17:03:32.352 3f38 Delete type=2 #93
+2025/04/29-17:03:32.352 3f38 Delete type=2 #96
